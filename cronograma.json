@@ -1,0 +1,450 @@
+{
+  "session_titles": {
+    "1": "Generación, Transmisión y Distribución de la Energía Eléctrica",
+    "2": "Generación Distribuida, Energías Renovables y Almacenamiento",
+    "3": "Gestión y Calidad de la Energía",
+    "4": "Regulación y Normativa. Impacto Ambiental",
+    "5": "Transformación digital aplicada a la industria energética",
+    "6": "Enseñanza de la Ingeniería en Energía Eléctrica"
+  },
+  "session_abbr": {
+    "1": "GTD",
+    "2": "GDERA",
+    "3": "GCE",
+    "4": "RNIA",
+    "5": "TDIE",
+    "6": "EIEE"
+  },
+  "talks": [
+    {
+      "id": 4,
+      "date": "2026-05-07",
+      "room": "Sala 1",
+      "start": "11:40",
+      "end": "12:00",
+      "session": 2,
+      "title": "Análisis de Viabilidad para el Fortalecimiento de Redes de Subtransmisión: Integración de Generación Hidrocinética frente a Refuerzos Tradicionales",
+      "authors": "Ulises Manassero, Pablo Marelli, Rodrigo Furlani, Carlos I. Sanseverinatti, Juan P. Fernández, Lautaro Rossi"
+    },
+    {
+      "id": 10,
+      "date": "2026-05-07",
+      "room": "Sala 1",
+      "start": "12:00",
+      "end": "12:20",
+      "session": 2,
+      "title": "Método de Cálculo de Autoconsumo con Generación Solar Fotovoltaica Aplicada. Caso: Industria Maderera en la Provincia de Entre Ríos",
+      "authors": "Facundo Cuestas, Marcos Benito, Esteban Sian, Sergio Burgos"
+    },
+    {
+      "id": 17,
+      "date": "2026-05-07",
+      "room": "Sala 1",
+      "start": "12:20",
+      "end": "12:40",
+      "session": 2,
+      "title": "Modelado y Análisis de un Sistema Híbrido Residencial con Producción y Uso de Hidrógeno",
+      "authors": "Adrián E. Gonnet, Carlos Mainetti"
+    },
+    {
+      "id": 33,
+      "date": "2026-05-07",
+      "room": "Sala 1",
+      "start": "12:40",
+      "end": "13:00",
+      "session": 2,
+      "title": "Adaptación de un Sistema de Gestión y Eficiencia Energética para la Conversión Eléctrica de un Vehículo Estándar",
+      "authors": "Mirta Doque, Walter C. Aguilera, José Baldini, Christian Liberatore"
+    },
+    {
+      "id": 9,
+      "date": "2026-05-07",
+      "room": "Sala 2",
+      "start": "11:40",
+      "end": "12:00",
+      "session": 1,
+      "title": "Detección de Falla en Aislador de Porcelana de 30 kV",
+      "authors": "Atilio María Montichelli"
+    },
+    {
+      "id": 12,
+      "date": "2026-05-07",
+      "room": "Sala 2",
+      "start": "12:00",
+      "end": "12:20",
+      "session": 1,
+      "title": "Impacto del Reactor de Neutro Sobre el Arco Secundario Frente a Fallas Monofásicas en Líneas de Transmisión de Extra Alta Tensión",
+      "authors": "Ariel A. Albanese, Héctor O. Pascual, José L. Maccarone, Carlos D. Di Clemente"
+    },
+    {
+      "id": 16,
+      "date": "2026-05-07",
+      "room": "Sala 2",
+      "start": "12:20",
+      "end": "12:40",
+      "session": 1,
+      "title": "Caracterización automatizada de la demanda eléctrica industrial mediante técnicas de inteligencia artificial",
+      "authors": "Ulises Manassero, Axel T. Smith, José L. Torres, Javier Acosta, Diego López, Nicolás Pochettino"
+    },
+    {
+      "id": 32,
+      "date": "2026-05-07",
+      "room": "Sala 2",
+      "start": "12:40",
+      "end": "13:00",
+      "session": 1,
+      "title": "Experiencia operativa en la vigilancia de transformadores de potencia utilizando monitores en línea de Hidrógeno",
+      "authors": "Gianfranco Lippi, Lucas Vandoni, Mauro Scavuzzo"
+    },
+    {
+      "id": 37,
+      "date": "2026-05-07",
+      "room": "Sala 1",
+      "start": "15:10",
+      "end": "15:30",
+      "session": 2,
+      "title": "Determinación de la potencia instalada por zona para infraestructura de carga de vehículos eléctricos en Córdoba",
+      "authors": "Martin Sombeck, Tomas L. Suppo, Sergio N. Bragagnolo, Juan I. Amaya"
+    },
+    {
+      "id": 39,
+      "date": "2026-05-07",
+      "room": "Sala 1",
+      "start": "15:30",
+      "end": "15:50",
+      "session": 2,
+      "title": "Automatización del cálculo de curvas P–Q para parques fotovoltaicos según los requisitos de CAMMESA mediante integración PSSE–Python",
+      "authors": "Facundo Scribano Vera, Carlos E. Biteznik, Victor F. Corasaniti, María B. Barbieri, Patricia L. Arnera"
+    },
+    {
+      "id": 42,
+      "date": "2026-05-07",
+      "room": "Sala 1",
+      "start": "15:50",
+      "end": "16:10",
+      "session": 2,
+      "title": "Herramienta de análisis y modelado para electrificación en zonas aisladas de la provincia de Córdoba",
+      "authors": "Rocío Massó, Marcelo Bertossi"
+    },
+    {
+      "id": 43,
+      "date": "2026-05-07",
+      "room": "Sala 1",
+      "start": "16:10",
+      "end": "16:30",
+      "session": 2,
+      "title": "Comparativa estratégica para la producción sostenible de hidrógeno verde en Argentina",
+      "authors": "Germán Cespedes, Mariano Asteazaran"
+    },
+    {
+      "id": 8,
+      "date": "2026-05-07",
+      "room": "Sala 2",
+      "start": "15:10",
+      "end": "15:30",
+      "session": 3,
+      "title": "Diseño y Validación Inicial de un Sistema Abierto de Iluminación Pública para Ciudades Inteligentes",
+      "authors": "Lautaro Bifano, Hugo Mazzeo, Nicolas Zaniratto, Fidel Aguirre"
+    },
+    {
+      "id": 20,
+      "date": "2026-05-07",
+      "room": "Sala 2",
+      "start": "15:30",
+      "end": "15:50",
+      "session": 3,
+      "title": "Análisis de curvas de carga a nivel doméstico para la gestión de la carga, con técnicas de clasificación (Clustering)",
+      "authors": "Leonardo Sanchez, Ezequiel Silva, Juan Carlos Amatti, Daniel Nieto"
+    },
+    {
+      "id": 45,
+      "date": "2026-05-07",
+      "room": "Sala 2",
+      "start": "15:50",
+      "end": "16:10",
+      "session": 3,
+      "title": "Metodología para estimar la potencia máxima de lámparas LED a instalar según el contenido armónico",
+      "authors": "Adrian F. Dandrea, Carlos G. Pacheco, Ciro T. Rufinatto"
+    },
+    {
+      "id": 72,
+      "date": "2026-05-07",
+      "room": "Sala 2",
+      "start": "16:10",
+      "end": "16:30",
+      "session": 3,
+      "title": "Análisis de radiación infrarroja emitida por una estufa a leña Rocket L8 con campana de ladrillo",
+      "authors": "Nicolás J. Di Ruscio, Pablo Kulbaba"
+    },
+    {
+      "id": 44,
+      "date": "2026-05-07",
+      "room": "Sala 1",
+      "start": "17:00",
+      "end": "17:20",
+      "session": 2,
+      "title": "Metodologías y aplicaciones de pronóstico de la demanda en redes eléctricas de distribución",
+      "authors": "Mariano Mujica, Pablo G. Rullo"
+    },
+    {
+      "id": 52,
+      "date": "2026-05-07",
+      "room": "Sala 1",
+      "start": "17:20",
+      "end": "17:40",
+      "session": 2,
+      "title": "Optimización de microrredes mediante control predictivo basado en modelo",
+      "authors": "Rodrigo G. Alarcón, Martín A. Alarcón"
+    },
+    {
+      "id": 56,
+      "date": "2026-05-07",
+      "room": "Sala 1",
+      "start": "17:40",
+      "end": "18:00",
+      "session": 2,
+      "title": "Análisis de la rentabilidad económica en la facturación eléctrica residencial con un sistema solar fotovoltaico on-grid híbrido con y sin banco de baterías",
+      "authors": "Mario Ros, Walter Capeletti"
+    },
+    {
+      "id": 60,
+      "date": "2026-05-07",
+      "room": "Sala 1",
+      "start": "18:00",
+      "end": "18:20",
+      "session": 2,
+      "title": "Evaluación energética de un colector solar híbrido térmico-fotovoltaico",
+      "authors": "Hugo D. Zurlo, María F. Zampar, Gustavo R. Figueredo, Diego M. Ferreyra"
+    },
+    {
+      "id": 58,
+      "date": "2026-05-07",
+      "room": "Sala 2",
+      "start": "17:00",
+      "end": "17:20",
+      "session": 4,
+      "title": "Evaluación del Impacto Eléctrico, Económico y Ambiental de la Incorporación de 1000 Vehículos Eléctricos en la Provincia de Entre Ríos",
+      "authors": "Facundo N. Romero, José L. Godoy, Rodrigo M. Schierloh"
+    },
+    {
+      "id": 74,
+      "date": "2026-05-07",
+      "room": "Sala 2",
+      "start": "17:20",
+      "end": "17:40",
+      "session": 4,
+      "title": "Importancia de la Evaluación Ambiental en la toma de decisiones de obras eléctricas",
+      "authors": "Irene B. Steinmann, Juan P. Fernández, Lautaro Rossi"
+    },
+    {
+      "id": 76,
+      "date": "2026-05-07",
+      "room": "Sala 2",
+      "start": "17:40",
+      "end": "18:00",
+      "session": 4,
+      "title": "Síntesis Actualizada de Regulación Ambiental en Sistemas de Transporte de Energía Eléctrica",
+      "authors": "Irene B. Steinmann, Juan P. Fernández, Lautaro Rossi"
+    },
+    {
+      "id": 18,
+      "date": "2026-05-08",
+      "room": "Sala 1",
+      "start": "12:20",
+      "end": "12:40",
+      "session": 5,
+      "title": "Análisis de Perfiles de Consumo Eléctrico en Actividades Productivas",
+      "authors": "Esteban Sian, Facundo Cuestas, Marcos Benito, Sergio Burgos"
+    },
+    {
+      "id": 26,
+      "date": "2026-05-08",
+      "room": "Sala 1",
+      "start": "12:40",
+      "end": "13:00",
+      "session": 5,
+      "title": "Metodología integrada de simulación, modelado subrogado y optimización para la planificación de la generación eólica a mediano plazo",
+      "authors": "Sebastian Pralong, Samuel Martínez-Gutiérrez, Dan Kröhling, Alejandro Merino, Gonzalo Alvarez, Daniel Sarabia, Ernesto Martínez"
+    },
+    {
+      "id": 41,
+      "date": "2026-05-08",
+      "room": "Sala 2",
+      "start": "12:20",
+      "end": "12:40",
+      "session": 1,
+      "title": "Protecciones de Sobrecorriente Coordinadas Mediante Energía Especifica",
+      "authors": "Sebastian M. Nesci, German Zamanillo, Hernan Rovere"
+    },
+    {
+      "id": 49,
+      "date": "2026-05-08",
+      "room": "Sala 2",
+      "start": "12:40",
+      "end": "13:00",
+      "session": 1,
+      "title": "FMEA como herramienta para la planificación y mejora de la confiabilidad en redes de distribución",
+      "authors": "Carlos Sanseverinatti, Ulises Manassero, Ariel Loyarte, Luis Andreotti"
+    },
+    {
+      "id": 31,
+      "date": "2026-05-08",
+      "room": "Sala 1",
+      "start": "15:10",
+      "end": "15:30",
+      "session": 5,
+      "title": "Coexistencia de un sistema digital en IEC 61850 con otro cableado en una protección de sub-frecuencia para alivio de carga en un centro de distribución",
+      "authors": "Andres Zottico, Ignacio Dopazo"
+    },
+    {
+      "id": 34,
+      "date": "2026-05-08",
+      "room": "Sala 1",
+      "start": "15:30",
+      "end": "15:50",
+      "session": 5,
+      "title": "Telemetría por red NB-IOT aplicada a transformadores de distribución",
+      "authors": "Hernán Martínez Reina, Rodrigo Paredes, Lucas Vandoni"
+    },
+    {
+      "id": 63,
+      "date": "2026-05-08",
+      "room": "Sala 1",
+      "start": "15:50",
+      "end": "16:10",
+      "session": 5,
+      "title": "Contratos Inteligentes para Subastas de Energía a Través de Blockchain",
+      "authors": "Ariel S. Loyarte, Nicolás Courtalón, Ulises Manassero"
+    },
+    {
+      "id": 73,
+      "date": "2026-05-08",
+      "room": "Sala 1",
+      "start": "16:10",
+      "end": "16:30",
+      "session": 5,
+      "title": "Copiloto multiagente basado en grandes modelos de lenguaje para la gestión de sistemas eléctricos con alta penetración de energías renovables",
+      "authors": "Matías Gerard, Guillermo A. Magallán, Iván Peralta, Hugo L. Rufiner"
+    },
+    {
+      "id": 50,
+      "date": "2026-05-08",
+      "room": "Sala 2",
+      "start": "15:10",
+      "end": "15:30",
+      "session": 1,
+      "title": "Envejecimiento de las aislaciones de un transformador de distribución según su material y la temperatura ambiente",
+      "authors": "Gerardo D. Szwarc, Jorge R. Vega, Diego M. Ferreyra"
+    },
+    {
+      "id": 55,
+      "date": "2026-05-08",
+      "room": "Sala 2",
+      "start": "15:30",
+      "end": "15:50",
+      "session": 1,
+      "title": "Procedimientos y Ensayos de Laboratorio para Trajes Conductores utilizados en Trabajos con Tensión TcT - Normativa IEC 60895:2020",
+      "authors": "Luis L. Neira, Rodrigo A. Franchini, Francisco A. Pérez, Facundo A. Andrada Reynoso, Federico M. Ava, Ayelen M. Luna"
+    },
+    {
+      "id": 77,
+      "date": "2026-05-08",
+      "room": "Sala 2",
+      "start": "15:50",
+      "end": "16:10",
+      "session": 1,
+      "title": "Estudio comparativo vínculos HVDC en el Sistema Argentino de Interconexión",
+      "authors": "Leonardo Casterás, Federico Muiño, Esteban Baldassini, Lucas D’ovidio"
+    },
+    {
+      "id": 19,
+      "date": "2026-05-08",
+      "room": "Sala 2",
+      "start": "16:10",
+      "end": "16:30",
+      "session": 6,
+      "title": "Experiencias didácticas de Aprendizaje Basado en Problemas bajo el Enfoque por Competencias en Física II",
+      "authors": "Claudio Enrique"
+    },
+    {
+      "id": 62,
+      "date": "2026-05-08",
+      "room": "Sala 1",
+      "start": "17:00",
+      "end": "17:20",
+      "session": 2,
+      "title": "Sistema de Protección para Microrredes DC",
+      "authors": "Rodrigo M. Schierloh, Jorge R. Vega, José L. Godoy, Fabio M. Vincitorio"
+    },
+    {
+      "id": 68,
+      "date": "2026-05-08",
+      "room": "Sala 1",
+      "start": "17:20",
+      "end": "17:40",
+      "session": 2,
+      "title": "Banco de emulación de turbina eólica de baja potencia aplicado a generación distribuida",
+      "authors": "Norberto Scarone, Nicolas Zuñiga, Ruben Bufanio, Gustavo Monte, Damián Marasco, Ariel Agnello, Ricardo Thomas, Matías Burgos"
+    },
+    {
+      "id": 69,
+      "date": "2026-05-08",
+      "room": "Sala 1",
+      "start": "17:40",
+      "end": "18:00",
+      "session": 2,
+      "title": "Control Óptimo Singular aplicado a CFP en Conversores Boost",
+      "authors": "Carlos Benavidez, Andrés G. García"
+    },
+    {
+      "id": 75,
+      "date": "2026-05-08",
+      "room": "Sala 1",
+      "start": "18:00",
+      "end": "18:20",
+      "session": 2,
+      "title": "Dispositivo para Cálculo de Indicador de Desempeño de una Planta Fotovoltaica",
+      "authors": "Edgardo Marino, Marcelo Castello, Ignacio Arraña, Juan Salerno"
+    },
+    {
+      "id": 21,
+      "date": "2026-05-08",
+      "room": "Sala 2",
+      "start": "17:00",
+      "end": "17:20",
+      "session": 6,
+      "title": "Formación Profesional: recursos didácticos transversales para una mejora del aprendizaje e integración de conocimientos en Ingeniería",
+      "authors": "Leonardo Sanchez, Santiago Lovera, Eugenia Yorye, Edgardo Florena, Rita Amieva"
+    },
+    {
+      "id": 25,
+      "date": "2026-05-08",
+      "room": "Sala 2",
+      "start": "17:20",
+      "end": "17:40",
+      "session": 6,
+      "title": "Aplicación del método de mínimos cuadrados en Ingeniería Eléctrica mediante Python e Inteligencia Artificial: experiencia didáctica con mini-congreso",
+      "authors": "Diego Amiconi, Paulina Arce Genta, Demian Bogado, Angel Cea, Zoe De la Canal, Johanna Peters, Benjamín Sioma"
+    },
+    {
+      "id": 40,
+      "date": "2026-05-08",
+      "room": "Sala 2",
+      "start": "17:40",
+      "end": "18:00",
+      "session": 6,
+      "title": "Propuesta de Trayecto Electivo Colaborativo para bajar el desgranamiento desde 3° a 5° año para la carrera de Ingeniería en Energía Eléctrica de la UTN La Plata",
+      "authors": "José L. Maccarone, Abel Abraham, Osvaldo Pascual, Ariel Albanese"
+    },
+    {
+      "id": 51,
+      "date": "2026-05-08",
+      "room": "Sala 2",
+      "start": "18:00",
+      "end": "18:20",
+      "session": 6,
+      "title": "Aprendizaje Basado en Proyectos en la Enseñanza de Programación para Ingeniería en Energía Eléctrica",
+      "authors": "Ariel Loyarte, Justina Chaves Galizzi"
+    }
+  ]
+}
