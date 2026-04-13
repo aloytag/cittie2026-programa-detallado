@@ -297,21 +297,11 @@
       "authors": "Andres Zottico, Ignacio Dopazo"
     },
     {
-      "id": 34,
+      "id": 63,
       "date": "2026-05-08",
       "room": "Sala 1",
       "start": "15:30",
       "end": "15:50",
-      "session": 5,
-      "title": "Telemetría por red NB-IOT aplicada a transformadores de distribución",
-      "authors": "Hernán Martínez Reina, Rodrigo Paredes, Lucas Vandoni"
-    },
-    {
-      "id": 63,
-      "date": "2026-05-08",
-      "room": "Sala 1",
-      "start": "15:50",
-      "end": "16:10",
       "session": 5,
       "title": "Contratos Inteligentes para Subastas de Energía a Través de Blockchain",
       "authors": "Ariel S. Loyarte, Nicolás Courtalón, Ulises Manassero"
@@ -320,8 +310,8 @@
       "id": 73,
       "date": "2026-05-08",
       "room": "Sala 1",
-      "start": "16:10",
-      "end": "16:30",
+      "start": "15:50",
+      "end": "16:10",
       "session": 5,
       "title": "Copiloto multiagente basado en grandes modelos de lenguaje para la gestión de sistemas eléctricos con alta penetración de energías renovables",
       "authors": "Matías Gerard, Guillermo A. Magallán, Iván Peralta, Hugo L. Rufiner"
