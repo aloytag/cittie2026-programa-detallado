@@ -344,11 +344,15 @@
           "colspan": true,
           "sala1": {
             "text": "Plenaria (AUDITORIO)",
-            "kind": "general"
+            "kind": "general",
+            "title": "Ingeniería de Sistemas Energéticos Avanzados en Aplicaciones Reales: Hibridación, Celdas de Combustible, Sistemas Complejos y Tecnologías Emergentes",
+            "authors": "Dr. Esteban Marks"
           },
           "sala2": {
             "text": "Plenaria (AUDITORIO)",
-            "kind": "general"
+            "kind": "general",
+            "title": "Ingeniería de Sistemas Energéticos Avanzados en Aplicaciones Reales: Hibridación, Celdas de Combustible, Sistemas Complejos y Tecnologías Emergentes",
+            "authors": "Dr. Esteban Marks"
           }
         },
         {
@@ -396,8 +400,8 @@
           "sala2": {
             "text": "Semiplenaria – TRANSENER",
             "kind": "general",
-            "title": "Disertación orientada a estudiantes de Ingeniería",
-            "authors": " "
+            "title": "El Futuro de la Energía: Proyecto 2035 en TRANSENER TRANSBA",
+            "authors": "Cristian Guccione"
           }
         },
         {
@@ -866,7 +870,19 @@
             card.classList.add('single');
             const cell=document.createElement('div');
             cell.className='cell';
+            const hasGeneralContent = ((row.sala1.kind==='general' || row.sala1.kind==='plenaria') && row.sala1.title && row.sala1.authors);
             cell.innerHTML = `<div class="cell-head"><strong>Actividad</strong></div><div class="cell-body" style="color:var(--text); font-weight:800;">${escapeHtml(row.sala1.text)}</div>`;
+            if(hasGeneralContent){
+              const list=document.createElement('div');
+              list.className='talk-list';
+              const el=document.createElement('div');
+              el.className='talk';
+              el.innerHTML = `<div class="talk-top"><div class="talk-time">${escapeHtml(row.start)}–${escapeHtml(row.end)} <span class="talk-day">(${fmtShort(day)})</span></div></div>`+
+                             `<div class="talk-title">${escapeHtml(row.sala1.title)}</div>`+
+                             `<div class="talk-auth">${escapeHtml(row.sala1.authors)}</div>`;
+              list.appendChild(el);
+              cell.appendChild(list);
+            }
             card.appendChild(cell);
           } else {
             const grid=document.createElement('div');
@@ -877,7 +893,7 @@
               const cell=document.createElement('div');
               cell.className='cell';
               const isOral = (cellData.kind==='oral');
-              const hasGeneralContent = (cellData.kind==='general' && cellData.title && cellData.authors);
+              const hasGeneralContent = ((cellData.kind==='general' || cellData.kind==='plenaria') && cellData.title && cellData.authors);
               const abbrLabel = isOral ? cellData.sessions.map(s=> (ABBR[String(s)]||ABBR[s]||`S${s}`)).join(' · ') : '';
               cell.innerHTML = `<div class="cell-head"><strong>${escapeHtml(roomName)}</strong>${isOral ? `<span>${escapeHtml(abbrLabel)}</span>` : ''}</div>`+
                                `<div class="cell-body" style="${(isOral||hasGeneralContent)?'color:var(--text); font-weight:900;':'color:var(--muted); font-weight:700;'}">${escapeHtml(cellData.text)}</div>`;
