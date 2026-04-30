@@ -1,7 +1,7 @@
 {
   "name": "CITTIE 2026 – Programa Detallado",
   "short_name": "CITTIE 2026",
-  "description": "Programa detallado del Congreso CITTIE 2026",
+  "description": "Programa detallado del CITTIE 2026",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
