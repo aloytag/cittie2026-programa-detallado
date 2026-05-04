@@ -104,7 +104,7 @@
       "end": "15:30",
       "session": 2,
       "title": "Determinación de la potencia instalada por zona para infraestructura de carga de vehículos eléctricos en Córdoba",
-      "authors": "Martin Sombeck, Tomas L. Suppo, Sergio N. Bragagnolo, Juan I. Amaya"
+      "authors": "Martin Sombeck, Tomás L. Suppo, Sergio N. Bragagnolo, Juan I. Amaya"
     },
     {
       "id": 39,
@@ -114,7 +114,7 @@
       "end": "15:50",
       "session": 2,
       "title": "Automatización del cálculo de curvas P–Q para parques fotovoltaicos según los requisitos de CAMMESA mediante integración PSSE–Python",
-      "authors": "Facundo Scribano Vera, Carlos E. Biteznik, Victor F. Corasaniti, María B. Barbieri, Patricia L. Arnera"
+      "authors": "Facundo Scribano Vera, Carlos E. Biteznik, Víctor F. Corasaniti, María B. Barbieri, Patricia L. Arnera"
     },
     {
       "id": 42,
@@ -164,7 +164,7 @@
       "end": "16:10",
       "session": 3,
       "title": "Metodología para estimar la potencia máxima de lámparas LED a instalar según el contenido armónico",
-      "authors": "Adrian F. D'Andrea, Carlos G. Pacheco, Ciro Toscano Ruffinatto"
+      "authors": "Adrián F. D'Andrea, Carlos G. Pacheco, Ciro Toscano Ruffinatto"
     },
     {
       "id": 72,
@@ -264,7 +264,7 @@
       "end": "13:00",
       "session": 5,
       "title": "Metodología integrada de simulación, modelado subrogado y optimización para la planificación de la generación eólica a mediano plazo",
-      "authors": "Sebastian Pralong, Samuel Martínez-Gutiérrez, Dan Kröhling, Alejandro Merino, Gonzalo Alvarez, Daniel Sarabia, Ernesto Martínez"
+      "authors": "Sebastián Pralong, Samuel Martínez-Gutiérrez, Dan Kröhling, Alejandro Merino, Gonzalo Alvarez, Daniel Sarabia, Ernesto Martínez"
     },
     {
       "id": 41,
@@ -274,7 +274,7 @@
       "end": "12:40",
       "session": 1,
       "title": "Protecciones de Sobrecorriente Coordinadas Mediante Energía Especifica",
-      "authors": "Sebastian M. Nesci, German Zamanillo, Hernan Rovere"
+      "authors": "Sebastián M. Nesci, Germán Zamanillo, Hernán Rovere"
     },
     {
       "id": 49,
@@ -294,7 +294,7 @@
       "end": "15:30",
       "session": 5,
       "title": "Coexistencia de un sistema digital en IEC 61850 con otro cableado en una protección de sub-frecuencia para alivio de carga en un centro de distribución",
-      "authors": "Andres Zottico, Ignacio Dopazo"
+      "authors": "Andrés Zottico, Ignacio Dopazo"
     },
     {
       "id": 63,
